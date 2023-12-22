@@ -1,0 +1,53 @@
+[Secret Net LSP]
+CORE=FULL
+ClientDescription=АКЦИОНЕРНОЕ ОБЩЕСТВО "КОНТУР"
+ClientID=95 364
+Date=2024-12-13
+Demo=NO
+LicCount=10
+LicID=246B786_001
+Product=Secret Net LSP
+ProductDescription=Право на использование модуля защиты от НСД Средства защиты информации Secret Net LSP, срок 1 год
+SuppType=Sup-Dir-St
+UpgrExp=2024-12-13
+Sign=1e5bQs3oYoS1gF0qB2Yhs7/fL7vQL8eWvev4j9YVsCD9aAU1iiA/CSNLP0eOXPYr2hFPvhOrhCAQUdDYlbdBQQ==
+[Secret Net LSP]
+ClientDescription=АКЦИОНЕРНОЕ ОБЩЕСТВО "КОНТУР"
+ClientID=95 364
+DAC=FULL
+Date=2024-12-13
+Demo=NO
+LicCount=10
+LicID=246B786_013
+Product=Secret Net LSP
+ProductDescription=Право на использование модуля защиты от НСД Средства защиты информации Secret Net LSP, срок 1 год
+SuppType=Sup-Dir-St
+UpgrExp=2024-12-13
+Sign=dqrgJbeuzpgG31CZ+wowdhGp3KnK4QGPZbZoreO4xf5Dv7DrUc6ZlWAd7CA4toVUGRtP9UjaPombfAi8HjXbYw==
+[Secret Net LSP]
+CSE=FULL
+ClientDescription=АКЦИОНЕРНОЕ ОБЩЕСТВО "КОНТУР"
+ClientID=95 364
+Date=2024-12-13
+Demo=NO
+LicCount=10
+LicID=246B786_014
+Product=Secret Net LSP
+ProductDescription=Право на использование модуля защиты от НСД Средства защиты информации Secret Net LSP, срок 1 год
+SuppType=Sup-Dir-St
+UpgrExp=2024-12-13
+Sign=CEq+HX9UV2GIfCWOouNfefXbGsPY6bCTniy/o8g7vUej7z2EPGyDEFyvGh8qK+ec22ZyVnlHN/4HFQLwT2Qb5g==
+[Secret Net LSP]
+ClientDescription=АКЦИОНЕРНОЕ ОБЩЕСТВО "КОНТУР"
+ClientID=95 364
+DEVCTRL=FULL
+Date=2024-12-13
+Demo=NO
+LicCount=10
+LicID=246B786_021
+Product=Secret Net LSP
+ProductDescription=Право на использование модуля защиты от НСД Средства защиты информации Secret Net LSP, срок 1 год
+SuppType=Sup-Dir-St
+UpgrExp=2024-12-13
+Sign=RCZzLp0BGJRWEDpIFVvUJJyrHA6bog0nwQrkPOPBeWW6sgKf7CNEf1Jjcjyo39J0zA7IKstdfQAa/HxMcncYvw==
+
